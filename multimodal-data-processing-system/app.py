@@ -5,7 +5,7 @@ from processors.text_processor import summarize_text
 
 load_dotenv()
 
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("AIzaSyDHuUeICeNyQGrOSSCB0Ot8cTC2Bot0Yjs")
 if not api_key:
     raise EnvironmentError(" GEMINI_API_KEY not found! Please set it in your .env file.")
 

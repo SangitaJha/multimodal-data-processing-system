@@ -1,0 +1,12 @@
+langchain
+langchain_community
+google-genai
+PyMuPDF
+pypdf2
+faiss-cpu
+pdfplumber
+transformers
+torch
+Pillow
+scikit-learn
+streamlit
